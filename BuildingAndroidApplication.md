@@ -1,7 +1,7 @@
 #summary introduction to android applications
 =*Building Android Application*=
 
-[http://www.tuttoandroid.net/wp-content/uploads/2011/12/new-prof.png]
+http://www.tuttoandroid.net/wp-content/uploads/2011/12/new-prof.png
 
 ===*Android*===
 
